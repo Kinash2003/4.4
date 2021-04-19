@@ -1,0 +1,11 @@
+﻿  UnitTest4.4.cpp
+D:\Lab-4\4.4\4.4\Time.cpp(125,90): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Lab-4\4.4\4.4\Time.cpp(126,102): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Lab-4\4.4\4.4\Time.cpp(127,102): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Lab-4\4.4\4.4\Time.cpp(124,6): warning C4101: ostatok: неиспользованная локальная переменная
+D:\Lab-4\4.4\4.4\Time.cpp(144,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Lab-4\4.4\4.4\Time.cpp(145,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Lab-4\4.4\4.4\Time.cpp(146,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Lab-4\4.4\4.4\Time.cpp(143,6): warning C4101: ostatok: неиспользованная локальная переменная
+D:\Lab-4\4.4\4.4\Time.cpp(91): warning C4715: Time::Сomparison: значение возвращается не при всех путях выполнения
+  UnitTest4.4.vcxproj -> D:\Lab-4\4.4\Debug\UnitTest4.4.dll
